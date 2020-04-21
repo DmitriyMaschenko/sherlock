@@ -1,3 +1,7 @@
+```js script
+console.info('test');
+```
+
 # sherlock
 
 ## Project setup
